@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 9667-A2FD
+
+ R‚pertoire de C:\Users\Admin\Desktop\Project 1
+
+29/07/2020  15:37    <DIR>          .
+29/07/2020  15:37    <DIR>          ..
+29/07/2020  15:37                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  408ÿ856ÿ137ÿ728 octets libres
